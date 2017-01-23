@@ -1,0 +1,32 @@
+.fon_site_one{display: block;padding: 20px;}
+.bgfon01{background:#fff url("../images/fonsite/fon/110.jpg");background-attachment:fixed;}
+.bgfon02{background:#fff url("../images/fonsite/fon/220.jpg");background-attachment:fixed;}
+.bgfon03{background:#fff url("../images/fonsite/fon/330.jpg");background-attachment:fixed;}
+.bgfon04{background:#fff url("../images/fonsite/fon/440.jpg");background-attachment:fixed;}
+.bgfon05{background:#fff url("../images/fonsite/fon/550.jpg");background-attachment:fixed;}
+.bgfon06{background:#fff url("../images/fonsite/fon/660.jpg");background-attachment:fixed;}
+.bgfon07{background:#fff url("../images/fonsite/fon/770.jpg");background-attachment:fixed;}
+.bgfon08{background:#fff url("../images/fonsite/fon/880.jpg");background-attachment:fixed;}
+.bgfon09{background:#fff url("../images/fonsite/fon/990.jpg");background-attachment:fixed;}
+.bgfon10{background:#fff url("../images/fonsite/fon/1000.jpg");background-attachment:fixed;}
+.bgfon11{background:#fff url("../images/fonsite/fon/1100.jpg");background-attachment:fixed;}
+.bgfon12{background:#fff url("../images/fonsite/fon/1200.jpg");background-attachment:fixed;}
+
+.img_fon_site01.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site02.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site03.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site04.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site05.fon-on {-webkit-box-shadow: 1px 1px 25px #05fa36;-moz-box-shadow: 1px 1px 25px #05fa36;box-shadow: 1px 1px 25px #05fa36;}
+.img_fon_site06.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site07.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site08.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site09.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site10.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site11.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+.img_fon_site12.fon-on {-webkit-box-shadow: 1px 1px 15px #05fa36;-moz-box-shadow: 1px 1px 15px #05fa36;box-shadow: 1px 1px 15px #05fa36;}
+
+.popupHintOut{position:absolute;top:0px;left:0px;background:rgba(0,0,0,0.600);padding:4px;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;box-shadow:0px 0px 4px rgba(0,0,0,0.5);-moz-box-shadow:0px 0px 4px rgba(0,0,0,0.5);-webkit-box-shadow:0px 0px 4px rgba(0,0,0,0.5);z-index:1000;}
+.popupHintOut .popupHintIn{background:#fff;border-radius:2px;-moz-border-radius:2px;-webkit-border-radius:2px;box-shadow:0px 0px 3px rgba(0,0,0,0.7);}
+.popupHintOut .popupHintArrow{position:absolute;width:48px;height:16px;top:0px;left:0px;z-index:1000;}
+.popupHintOut .popupHintArrow.arrowBottom{background:url('../images/fonsite/popup-arrow-down.png') no-repeat center bottom;top:auto;bottom:-11px;}
+.popupHintOut .popupHintArrow.arrowTop{background:url('../images/fonsite/popup-arrow-top.png') no-repeat center top;top:-11px;}
